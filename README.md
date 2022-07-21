@@ -1,4 +1,4 @@
-# Maturation and circuit-level integration of transplanted human cortical organoids
+# Maturation and circuit integration of transplanted human cortical organoids
 Repository for code used to analyze single-nuclei RNA sequencing data from transplanted human brain cortical organoids for accompanying paper:
 
 <p align="center">
