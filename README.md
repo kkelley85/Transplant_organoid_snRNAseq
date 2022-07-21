@@ -43,6 +43,6 @@ Code to perform gene set significance testing and heatmap plots from activity-de
 
 Code to perform cluster overlap mapping to reference datasets as shown in Extended Data Figure 5: [Dataset_clusterMapping.R](code/Dataset_clusterMapping.R)
 
-Code to perfrom glutamatergic neuron transfer labeling from adult Allen brain references as shown in Extended Data Figure 5: [GluN_Allen_mapping.R](GluN_Allen_mapping.R)
+Code to perfrom glutamatergic neuron transfer labeling from adult Allen brain references as shown in Extended Data Figure 5: [GluN_Allen_mapping.R](code/GluN_Allen_mapping.R)
 
 Example outputs from above code: [output](output)
