@@ -2,7 +2,7 @@
 Repository for code used to analyze single-nuclei RNA sequencing data from transplanted human brain cortical organoids for accompanying paper:
 
 <p align="center">
-<img src="images/Fig1_snRNAseq.png" width="600"/>
+<img src="/Fig1_snRNAseq.png" width="600"/>
 </p>
 
 <p>Revah R<sup>*</sup>, Gore F<sup>*</sup>, Kelley KW<sup>*</sup>,..., Deisseroth K, Pașca SP. Maturation and circuit-level integration of transplanted human cortical organoids.<p>
