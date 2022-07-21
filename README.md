@@ -35,7 +35,7 @@ Code to generate QC plots from Extended Data Figure 4: [QC_plots.R](code/QC_plot
   
 Code to generate t-hCS plots in Figure 1 and Extended Data Figure 4: [t-hCS_plots.R](code/t-hCS_plots.R)
   
-Code to generate hCS plots in Extended Data Figure 4: [t-hCS_plots.R](code/t-hCS_plots.R)
+Code to generate hCS plots in Extended Data Figure 4: [hCS_plots.R](code/hCS_plots.R)
 
 Code to perform pseudobulk differential expression analysis using [Libra package](https://github.com/neurorestore/Libra) for Supplementary Table 5: [GluN_DE_analysis.R](code/GluN_DE_analysis.R)
 
