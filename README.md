@@ -5,16 +5,7 @@ Repository for code used to analyze single-nuclei RNA sequencing data from trans
 <img src="/Fig1_snRNAseq.png" width="600"/>
 </p>
 
-<p>Revah R<sup>*</sup>, Gore F<sup>*</sup>, Kelley KW<sup>*</sup>,..., Deisseroth K, Pașca SP. Maturation and circuit-level integration of transplanted human cortical organoids.<p>
-  
-**_Nature:_** https://www.nature.com/
-
-<p align="center">
-<img src="images/Fig1_snRNAseq.png" width="600"/>
-</p>
-
-## Publication
-<p>Revah R<sup>*</sup>, Gore F<sup>*</sup>, Kelley KW<sup>*</sup>,..., Deisseroth K, Pașca SP. Maturation and circuit-level integration of transplanted human cortical organoids.<p>
+<p>Revah R<sup>*</sup>, Gore F<sup>*</sup>, Kelley KW<sup>*</sup>, Andersen J, Sakai N, Chen X, Li MY, Birey F, Yang X, Saw NL, Baker SW, Amin ND, Kulkarni S, Mudipalli R, Cui B, Nishino S, Grant GA, Knowles JK, Shamloo M, Huguenard JR, Deisseroth K, Pașca SP. Maturation and circuit-level integration of transplanted human cortical organoids. Nature (2022)<p>
   
 **_Nature:_** https://www.nature.com/
 ## Data links
@@ -52,6 +43,6 @@ Code to perform gene set significance testing and heatmap plots from activity-de
 
 Code to perform cluster overlap mapping to reference datasets as shown in Extended Data Figure 5: [Dataset_clusterMapping.R](code/Dataset_clusterMapping.R)
 
-Code to perfrom glutamatergic neuron transfer labeling from adult Allen brain references as shown in Extended Data Figure 5: 
+Code to perfrom glutamatergic neuron transfer labeling from adult Allen brain references as shown in Extended Data Figure 5: [GluN_Allen_mapping.R](GluN_Allen_mapping.R)
 
-Example outputs from above code:
+Example outputs from above code: [output](output)
