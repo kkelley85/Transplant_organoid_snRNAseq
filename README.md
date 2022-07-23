@@ -10,14 +10,14 @@ Repository for code used to analyze single-nuclei RNA sequencing data from trans
 **_Nature:_** https://www.nature.com/
 ## Data links
 Raw and processed data available through GEO: [GSE190815](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190815)
-| GEO_ID        | Condition     | Diff. days   | Line |
-| ------------- | ------------- | ------------ | ---- |
-| [GSM5732392](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732392)    | t-hCS | 276 | Q-3  |
-| [GSM5732393](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732393)    | t-hCS | 224 | 2242 |
-| [GSM6225773](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225773)    | t-hCS | 227 | 2242 |
-| [GSM5732394](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732394)    |  hCS  | 243 | Q-2  |
-| [GSM6225774](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225774)    |  hCS  | 257 | Q-3  |
-| [GSM6225775](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225775)    |  hCS  | 224 | 2242 |
+| GEO_ID        | Condition     | Diff. days   | Line | Alternative line name |
+| ------------- | ------------- | ------------ | ---- | --------------------- |
+| [GSM5732392](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732392)    | t-hCS | 276 | Q-3  | 8119-1 |
+| [GSM5732393](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732393)    | t-hCS | 224 | 2242 | 2242-1 |
+| [GSM6225773](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225773)    | t-hCS | 227 | 2242 | 2242-1 |
+| [GSM5732394](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732394)    |  hCS  | 243 | Q-2  | 1208-2 |
+| [GSM6225774](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225774)    |  hCS  | 257 | Q-3  | 8119-1 |
+| [GSM6225775](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225775)    |  hCS  | 224 | 2242 | 2242-1 |
 
   
 Processed and integrated Seurat binarized R objects in **.rds** format: 
