@@ -134,7 +134,7 @@ tmp =t(scale(t(tmp)))
 
 df=melt(tmp)
 df$Var1=factor(as.character(df$Var1),levels=(ms_ERG$gene))
-df$Var2=factor(as.character(df$Var2),levels=rev(c("t-hCS_d224_2242","t-hCS_d227_2242","t-hCS_d276_Q3","hCS_d227_2242","hCS_d243_Q2","hCS_d257_Q3")))
+df$Var2=factor(as.character(df$Var2),levels=rev(c("t-hCS_d224_2242-1","t-hCS_d227_2242-1","t-hCS_d276_8119-1","hCS_d227_2242-1","hCS_d243_1208-2","hCS_d257_8119-1")))
 
 myPalette=brewer.pal(11,"RdBu")
 
@@ -165,7 +165,7 @@ tmp =t(scale(t(tmp)))
 
 df=melt(tmp)
 df$Var1=factor(as.character(df$Var1),levels=(ms_LRG$gene))
-df$Var2=factor(as.character(df$Var2),levels=rev(c("t-hCS_d224_2242","t-hCS_d227_2242","t-hCS_d276_Q3","hCS_d227_2242","hCS_d243_Q2","hCS_d257_Q3")))
+df$Var2=factor(as.character(df$Var2),levels=rev(c("t-hCS_d224_2242-1","t-hCS_d227_2242-1","t-hCS_d276_8119-1","hCS_d227_2242-1","hCS_d243_1208-2","hCS_d257_8119-1")))
 
 myPalette=brewer.pal(11,"RdBu")
 
@@ -197,7 +197,7 @@ tmp =t(scale(t(tmp)))
 
 df=melt(tmp)
 df$Var1=factor(as.character(df$Var1),levels=(hs_LRG$gene))
-df$Var2=factor(as.character(df$Var2),levels=rev(c("t-hCS_d224_2242","t-hCS_d227_2242","t-hCS_d276_Q3","hCS_d227_2242","hCS_d243_Q2","hCS_d257_Q3")))
+df$Var2=factor(as.character(df$Var2),levels=rev(c("t-hCS_d224_2242-1","t-hCS_d227_2242-1","t-hCS_d276_8119-1","hCS_d227_2242-1","hCS_d243_1208-2","hCS_d257_8119-1")))
 
 myPalette=brewer.pal(11,"RdBu")
 
