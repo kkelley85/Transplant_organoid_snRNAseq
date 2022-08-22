@@ -17,7 +17,7 @@ Raw and processed data available through GEO: [GSE190815](https://www.ncbi.nlm.n
 | [GSM6225773](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225773)    | t-hCS | 227 | 2242-1 |
 | [GSM5732394](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732394)    |  hCS  | 243 | 1208-2 |
 | [GSM6225774](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225774)    |  hCS  | 257 | 8119-1 |
-| [GSM6225775](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225775)    |  hCS  | 224 | 2242-1 |
+| [GSM6225775](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225775)    |  hCS  | 227 | 2242-1 |
 
   
 Processed and integrated Seurat binarized R objects in **.rds** format: 
