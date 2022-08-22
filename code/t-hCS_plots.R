@@ -26,7 +26,7 @@ dev.off()
 
 #Generate Integration by sample plot: Extended data 4
 colors= brewer.pal(8, "Set1")[1:3]
-clust$Plot.name=factor(as.character(clust$Plot.name),levels=c("t-hCS_d224_2242","t-hCS_d227_2242","t-hCS_d276_Q3"))
+clust$Plot.name=factor(as.character(clust$Plot.name),levels=c("t-hCS_d224_2242-1","t-hCS_d227_2242-1","t-hCS_d276_8119-1"))
 
 p1= DimPlot(clust, reduction = "umap",group.by="Plot.name",shuffle=T,cols=colors, label = F, repel = TRUE)&NoLegend()&NoAxes()& ggtitle(paste0(""))&theme(text = element_text(size=6))
 
