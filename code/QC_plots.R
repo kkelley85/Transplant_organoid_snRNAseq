@@ -91,7 +91,7 @@ for (i in c(1:length(data))){
 df$Condition=sapply(strsplit(df$Plot.name,"_"),function(x){x[[1]]})
 
 df$Condition=factor(as.character(df$Condition),levels=c("t-hCS","hCS"))
-df$Plot.name=factor(as.character(df$Plot.name),levels=c("t-hCS_d224_2242","t-hCS_d227_2242","t-hCS_d276_Q3","hCS_d227_2242","hCS_d243_Q2","hCS_d257_Q3"))
+df$Plot.name=factor(as.character(df$Plot.name),levels=c("t-hCS_d224_2242-1","t-hCS_d227_2242-1","t-hCS_d276_8119-1","hCS_d227_2242-1","hCS_d243_1208-2","hCS_d257_8119-1"))
 
 	genes=ggplot(df, aes(y= nFeature_RNA, x= Plot.name,fill=Condition)) + 
 		geom_violin(color="black",size=0.25) +	
