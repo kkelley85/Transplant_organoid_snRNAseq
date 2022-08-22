@@ -41,6 +41,8 @@ Code to perform pseudobulk differential expression analysis using [Libra package
 
 Code to perform gene set significance testing and heatmap plots from activity-dependent gene sets displayed in Figure 2: [ActivityGenePlots.R](code/ActivityGenePlots.R)
 
+Code to generate psychENCODE/BrainSpan plots as shown in Extended Data Figure 5: [psychENCODE_plots.R](code/psychENCODE_plots.R)
+
 Code to perform cluster overlap mapping to reference datasets as shown in Extended Data Figure 5: [Dataset_clusterMapping.R](code/Dataset_clusterMapping.R)
 
 Code to perfrom glutamatergic neuron transfer labeling from adult Allen brain references as shown in Extended Data Figure 5: [GluN_Allen_mapping.R](code/GluN_Allen_mapping.R)
