@@ -1,5 +1,5 @@
 # Maturation and circuit integration of transplanted human cortical organoids
-Repository for code used to analyze single-nuclei RNA sequencing data from transplanted human brain cortical organoids for accompanying paper:
+Repository for code used to analyze single-nuclei RNA sequencing data from transplanted human brain cortical organoids (t-hCO; also known as spheroids or t-hCS) for accompanying paper:
 
 <p align="center">
 <img src="/Fig1_snRNAseq.png" width="600"/>
@@ -12,12 +12,12 @@ Repository for code used to analyze single-nuclei RNA sequencing data from trans
 Raw and processed data available through GEO: [GSE190815](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190815)
 | GEO_ID        | Condition     | Diff. days   | Line |
 | ------------- | ------------- | ------------ | ---- |
-| [GSM5732392](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732392)    | t-hCS | 276 | 8119-1 |
-| [GSM5732393](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732393)    | t-hCS | 224 | 2242-1 |
-| [GSM6225773](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225773)    | t-hCS | 227 | 2242-1 |
-| [GSM5732394](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732394)    |  hCS  | 243 | 1208-2 |
-| [GSM6225774](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225774)    |  hCS  | 257 | 8119-1 |
-| [GSM6225775](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225775)    |  hCS  | 227 | 2242-1 |
+| [GSM5732392](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732392)    | t-hCO (aka t-hCS) | 276 | 8119-1 |
+| [GSM5732393](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732393)    | t-hCO (aka t-hCS) | 224 | 2242-1 |
+| [GSM6225773](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225773)    | t-hCO (aka t-hCS) | 227 | 2242-1 |
+| [GSM5732394](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM5732394)    |  hCO (aka hCS)  | 243 | 1208-2 |
+| [GSM6225774](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225774)    |  hCO (aka hCS)  | 257 | 8119-1 |
+| [GSM6225775](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM6225775)    |  hCO (aka hCS)  | 227 | 2242-1 |
 
   
 Processed and integrated Seurat binarized R objects in **.rds** format: 
