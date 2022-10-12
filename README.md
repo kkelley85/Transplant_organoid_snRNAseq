@@ -7,7 +7,7 @@ Repository for code used to analyze single-nuclei RNA sequencing data from trans
 
 <p>Revah R<sup>*</sup>, Gore F<sup>*</sup>, Kelley KW<sup>*</sup>, Andersen J, Sakai N, Chen X, Li MY, Birey F, Yang X, Saw NL, Baker SW, Amin ND, Kulkarni S, Mudipalli R, Cui B, Nishino S, Grant GA, Knowles JK, Shamloo M, Huguenard JR, Deisseroth K, Pașca SP. Maturation and circuit-level integration of transplanted human cortical organoids. Nature (2022)<p>
   
-**_Nature:_** https://www.nature.com/
+**_Nature:_** https://www.nature.com/articles/s41586-022-05277-w
 ## Data links
 Raw and processed data available through GEO: [GSE190815](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE190815)
 | GEO_ID        | Condition     | Diff. days   | Line |
